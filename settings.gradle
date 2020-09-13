@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "REG_19131A12B9"

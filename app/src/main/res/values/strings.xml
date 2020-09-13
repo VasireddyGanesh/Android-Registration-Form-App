@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">REG_19131A12B9</string>
+    <string name="registration_form">REGISTRATION FORM</string>
+    <string name="nametag">Enter Your Name</string>
+    <string name="rolltag">Enter Your Roll Number</string>
+    <string name="maleTag">Male</string>
+    <string name="femaletag">Female</string>
+    <string name="mechTag">MECH</string>
+    <string name="itTag">IT</string>
+    <string name="eeeTag">EEE</string>
+    <string name="eceTag">ECE</string>
+    <string name="csetag">CSE</string>
+    <string name="emailTag">Email Address</string>
+    <string name="phoneTag">Phone Number</string>
+    <string name="passwordTag">Enter Password</string>
+    <string name="details">DETAILS</string>
+    <string name="submit">Submit</string>
+</resources>
